@@ -29,15 +29,16 @@ The project uses Python for the development of this game. Some modules used for 
 
 **Pygame** is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
 
-<blank><center><blank>
-![](blob:https://stackedit.io/49f8e0ac-bf94-408e-b30f-9bd13916cee2)
-<blank><center><blank>
-![](blob:https://stackedit.io/34a8dbd0-2bfa-4f80-a6ba-9879f45ff0d0) 
+<p align="center">
+    <img src = "images/Tkinter.png" width = 180>
+    <br><br>
+    <img src = "images/Pygame.png" width = 200>
+</p>
 
 
 ## **Flowchart**:
-<blank><center><blank>
-![](blob:https://stackedit.io/1e55d907-bf85-4146-a45e-1dc7f7c65dc3)
+
+<img src = "images/Flowchart.png">
 
 ## **Classes and Functions definitions used in the program:**
 
@@ -56,8 +57,7 @@ iii) `def quit` :- The functions that quits the program.
 iv) `def login` :- The function that does the work of allowing the user to login
 
 v) `def signup` :- The function that does the work of sign up.
-
-Heading
+<br><br>
 
 In `Pre-final.py` program:
 
@@ -91,38 +91,40 @@ In `Pre-final.py` program:
 
 
 ## **Screenshot of the output:**
-<blank><center><blank>
-![](blob:https://stackedit.io/e686a7f4-af51-4a72-adeb-c605726e5ca6)
-<blank><center><blank>
+
+<center>
+<img src = "images/Picture1.png">
+
 *The Text file Wordlist.txt where the Player A stores the set of 4-Digit Numbers*
-<blank><center><blank>
-![](blob:https://stackedit.io/04316182-53e4-4533-b7ef-6ccd2fe89f24)
-<blank><center><blank>
+
+<img src = "images/Picture2.png">
+
 *The Login Screen*
-<blank><center><blank>
-![](blob:https://stackedit.io/bffcec55-0056-40b3-a8da-9cf1b4700fe1)
-<blank><center><blank>
+
+<img src = "images/Picture3.png">
+
 *The Starting Game Screen*
-<blank><center><blank>
-![](blob:https://stackedit.io/1a870583-ec6f-473c-8ad5-27695061b4ba)
-<blank><center><blank>
+
+<img src = "images/Picture4.png">
+
 *The Game while being played*
-<blank><center><blank>
-![](blob:https://stackedit.io/1c2bd839-2161-41a8-a57e-1b7c82ab2658)
-<blank><center><blank>
+
+<img src = "images/Picture5.png">
+
 *The dialog box opens asking for and extra chance when the Player B has still not guessed the Player A's number*
-<blank><center><blank>
-![](blob:https://stackedit.io/262d194a-963d-4053-a7a2-d3fecb7e4b63)
-<blank><center><blank>
+
+<img src = "images/Picture6.png">
+
 *When the Player B takes the extra chance and guesses a completely wrong number*
-<blank><center><blank>
-![](blob:https://stackedit.io/4d27bc9a-6d86-450e-b606-e81929a73945)
-<blank><center><blank>
+
+<img src = "images/Picture7.png">
+
 *When the Player B takes the extra chance and guesses a Partially correct answer with 1 cow and 1 bull in the extra chance*
-<blank><center><blank>
-![](blob:https://stackedit.io/3c26bf10-9e62-4a71-a678-2dfaaa7e1279)
-<blank><center><blank>
+
+<img src = "images/Picture8.png">
+
 *When the player B doesn't take up the extra chance*
+</center>
 
 ## **References taken for the project:**
 
