@@ -30,15 +30,15 @@ The project uses Python for the development of this game. Some modules used for 
 **Pygame** is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
 
 <p align="center">
-    <img src = "images/Tkinter.png" width = 180>
+    <img src = "https://github.com/Abishek15592/Cows_and_Bulls_Game/blob/master/Images/Tkinter.png" width = 180>
     <br><br>
-    <img src = "images/Pygame.png" width = 200>
+    <img src = "https://github.com/Abishek15592/Cows_and_Bulls_Game/blob/master/Images/Pygame.png" width = 200>
 </p>
 
 
 ## **Flowchart**:
 
-<img src = "images/Flowchart.png">
+<img src = "https://github.com/Abishek15592/Cows_and_Bulls_Game/blob/master/Images/Flowchart.png">
 
 ## **Classes and Functions definitions used in the program:**
 
@@ -93,35 +93,35 @@ In `Pre-final.py` program:
 ## **Screenshot of the output:**
 
 <center>
-<img src = "images/Picture1.png">
+<img src = "https://github.com/Abishek15592/Cows_and_Bulls_Game/blob/master/Images/Picture1.png">
 
 *The Text file Wordlist.txt where the Player A stores the set of 4-Digit Numbers*
 
-<img src = "images/Picture2.png">
+<img src = "https://github.com/Abishek15592/Cows_and_Bulls_Game/blob/master/Images/Picture2.png">
 
 *The Login Screen*
 
-<img src = "images/Picture3.png">
+<img src = "https://github.com/Abishek15592/Cows_and_Bulls_Game/blob/master/Images/Picture3.png">
 
 *The Starting Game Screen*
 
-<img src = "images/Picture4.png">
+<img src = "https://github.com/Abishek15592/Cows_and_Bulls_Game/blob/master/Images/Picture4.png">
 
 *The Game while being played*
 
-<img src = "images/Picture5.png">
+<img src = "https://github.com/Abishek15592/Cows_and_Bulls_Game/blob/master/Images/Picture5.png">
 
 *The dialog box opens asking for and extra chance when the Player B has still not guessed the Player A's number*
 
-<img src = "images/Picture6.png">
+<img src = "https://github.com/Abishek15592/Cows_and_Bulls_Game/blob/master/Images/Picture6.png">
 
 *When the Player B takes the extra chance and guesses a completely wrong number*
 
-<img src = "images/Picture7.png">
+<img src = "https://github.com/Abishek15592/Cows_and_Bulls_Game/blob/master/Images/Picture7.png">
 
 *When the Player B takes the extra chance and guesses a Partially correct answer with 1 cow and 1 bull in the extra chance*
 
-<img src = "images/Picture8.png">
+<img src = "https://github.com/Abishek15592/Cows_and_Bulls_Game/blob/master/Images/Picture8.png">
 
 *When the player B doesn't take up the extra chance*
 </center>
